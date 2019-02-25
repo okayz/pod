@@ -16,8 +16,5 @@
 + (void)showErrorWithInfo:(NSString *)info;
 
 
-/**
- 课后作业提示
- */
-+ (void)showAfterClassErrorWithInfo:(NSString *)info;
+
 @end
