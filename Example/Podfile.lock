@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - lxtCustmer (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - lxtCustmer (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  lxtCustmer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  lxtCustmer: c3b7f31a0b14663115dcc4d50b22c86ef6bd7898
+
+PODFILE CHECKSUM: c9dc7c7cc4f9dce5e000f079bbdf962306d0c082
+
+COCOAPODS: 1.5.3
